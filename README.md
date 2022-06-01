@@ -1,6 +1,5 @@
 # fanController
 
-Simple fan contrller 
 TO USE: 
 
 1. Enter a value from 0-5 (slow to fast) using keyboard
